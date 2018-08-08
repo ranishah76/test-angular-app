@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test-angular-app';
+  message = "I am making an Angular App wohoooo!!"
+  message2 = "So excited about what is coming today"
+
 }
